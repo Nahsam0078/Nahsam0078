@@ -20,7 +20,8 @@
 🔥 I'm a Computer Science graduate with a hacker's spirit, fueled by curiosity and creativity.
 👾 I reverse-engineer threats, automate security, and build AI-driven defenses.
 🌐 Currently crafting tools to detect phishing and gather OSINT data automatically.
-🧠 Always thinking one step ahead — like an attacker, but with guardian intent.---
+🧠 Always thinking one step ahead — like an attacker, but with guardian intent.
+---
 
 ### 🧰 Toolbox
 
