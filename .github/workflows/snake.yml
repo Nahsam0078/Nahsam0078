@@ -1,0 +1,28 @@
+name: GitHub Contribution Snake
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user: 'Nahsam0078' # Replace with your GitHub username
+          gif_out_path: 'github-contribution-grid-snake.gif'
+
+      - name: Commit and push snake image
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: 'github-actions[bot]'
+          author_email: 'github-actions[bot]@users.noreply.github.com'
+          message: 'Update snake image'
+          add: 'github-contribution-grid-snake.gif'
