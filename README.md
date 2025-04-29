@@ -1,6 +1,5 @@
 ## Hi there 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2CI+Am+Nahsam+Ahammed;I+Am+A+Security+Researcher" alt="Typing SVG" /></a>
-<!--
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7865F7&width=435&lines=Hey%2CI+Am+Nahsam+Ahammed;I+Am+A+Security+Researcher" alt="Typing SVG" /></a><!--
 **Nahsam0078/Nahsam0078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
