@@ -57,6 +57,12 @@ I'm a **Computer Science graduate** with a hacker’s mindset — passionate abo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahsam0078&layout=compact&theme=radical" width="48%" />
 </p>
 
+### 🐍 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github.com/Nahsam0078/Nahsam0078/blob/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" />
+</p>
+
 ---
 
 <!-- Optional: Snake GitHub Contribution Graph -->
