@@ -59,8 +59,9 @@ I'm a **Computer Science graduate** with a hacker’s mindset — passionate abo
 ### 🐍 Contribution Heatmap
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nahsam0078/Nahsam0078/output/dist/ocean.gif" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Nahsam0078/Nahsam0078/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
+
 
 
 ---
