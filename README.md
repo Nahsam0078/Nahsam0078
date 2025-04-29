@@ -16,7 +16,7 @@ I'm a **Computer Science graduate** with a hacker’s mindset — passionate abo
 ### 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,cloudflare,azure,googlecloud,wireshark,vscode,powershell" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,cloudflare,azure,googlecloud,arch,kali,vscode,powershell" />
 </p>
 
 ---
