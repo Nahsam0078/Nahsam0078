@@ -62,12 +62,7 @@ I'm a **Computer Science graduate** with a hacker’s mindset — passionate abo
 <!-- Optional: Snake GitHub Contribution Graph -->
 <!-- Enable this after setting up GitHub Actions for snake animation -->
 <!--
-### 🐍 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github.com/Nahsam0078/Nahsam0078/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
--->
+![snake gif](https://github.com/Nahsam0078/Nahsam0078/blob/output/github-snake-dark.svg)
 
 ---
 
