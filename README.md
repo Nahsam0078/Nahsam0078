@@ -4,14 +4,23 @@
 
 ### 🧠 About Me
 
-> `echo "Nahsam Ahammed"`  
-> Cybersecurity Researcher | Ethical Hacker  
-> Skills: Pentesting · AI-based Phishing Detection · Red Teaming · Linux Hardening  
-> 🔭 Currently working on AI-powered phishing detection and OSINT automation
-
-I'm a **Computer Science graduate** with a hacker’s mindset — passionate about **cyber defense, exploitation analysis, and system integration**. I enjoy automating security tasks, hunting vulnerabilities, and building tools that secure digital landscapes.
-
----
+```bash
+┌──(nahsam㉿cyberverse)-[~]
+└─$ whoami
+🧑‍💻 Name: Nahsam Ahammed
+🛡️ Role: Cybersecurity Researcher | Ethical Hacker
+🧰 Focus Areas:
+▸ Penetration Testing 🧪
+▸ AI-Powered Phishing Detection 🤖
+▸ OSINT & Digital Footprint Tracking 🛰️
+▸ Red Team Operations 🕵️
+▸ Linux Hardening & Cloud Security ☁️🐧
+┌──(nahsam㉿cyberverse)-[~]
+└─$ cat mission.txt
+🔥 I'm a Computer Science graduate with a hacker's spirit, fueled by curiosity and creativity.
+👾 I reverse-engineer threats, automate security, and build AI-driven defenses.
+🌐 Currently crafting tools to detect phishing and gather OSINT data automatically.
+🧠 Always thinking one step ahead — like an attacker, but with guardian intent.---
 
 ### 🧰 Toolbox
 
