@@ -1,15 +1,19 @@
-## Hi there 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7865F7&width=435&lines=Hey%2CI+Am+Nahsam+Ahammed;I+Am+A+Security+Researcher" alt="Typing SVG" /></a><!--
-**Nahsam0078/Nahsam0078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8EFFEF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Nahsam+Ahammed;Cybersecurity+Analyst+%7C+Pentester;Linux+Wizard+%7C+Cloud+Explorer;Securing+The+World%2C+One+Line+Of+Code+At+A+Time" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFB2&center=true&vCenter=true&width=440&lines=%24+whoami;nahsam@cyberverse:~%24+Security+Researcher;Breach+the+shell.+Secure+the+core." alt="Terminal Typing" />
+</p>
+
+---
+
+### 🧠 About Me
+
+```bash
+> echo "Nahsam Ahammed"
+> role="Cybersecurity Researcher | Ethical Hacker"
+> skills=("Pentesting" "Phishing Detection AI" "Red Teaming" "Linux Hardening")
+> status="Currently working on AI-powered phishing detection & OSINT automation."
