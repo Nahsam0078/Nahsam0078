@@ -54,10 +54,6 @@ I'm a **Computer Science graduate** with a hacker’s mindset — passionate abo
 ![Nahsam0078's Stats](https://github-readme-stats.vercel.app/api?username=Nahsam0078&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <br>
 ![Nahsam0078's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahsam0078&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nahsam0078&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahsam0078&layout=compact&theme=radical" width="48%" />
-</p>
 
 ### 🐍 Contribution Heatmap
 
